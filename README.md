@@ -3,7 +3,7 @@ Here you will find the user-end version of my [Covid19-detection-by-Neural-Netwo
 
 
 ## UPDATE:
-The repo is being updated privately. The GUI app R-NET is on field trial by Fauji Foundation in various hospitals at Pakistan. You can also take part in the trial from your Computer by following the steps below:
+The repo is being updated privately. The GUI app R-NET is on field trial by Fauji Foundation in various hospitals at Pakistan. You can also take part in the trial from your Windows 10 Computer by following the steps below:
 - Install latest version of Python and PIP
 - Download the R-NET.bat script from this repo
 - Double click it from a folder, where the models will be saved. So make sure you have at least 3GB of empty space on that drive!
