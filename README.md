@@ -11,7 +11,7 @@ The repo is being updated privately. The GUI app R-NET is on field trial by Fauj
 ```
 covid19-detector
 ```
-- At the first launch, it will automatically prompt you for locating the folders containing the trained models. If it doesn't, then click the settings icon on the bar "model". And select the folder where the trained models is located.
+- At first launch, it will automatically prompt you for locating the folders containing the trained models. If it doesn't, then click the settings icon on the bar "model". And select the folder where the trained models is located.
 
 ## NOTE:
-This is still a prototype, expect bugs to happen. Any bugs you found, please post it in the issues section. We are not working behind this full-time but we will check and try to solve it often. To run the GUI correctly you will need to have your resolution set at 1920x1080. When you are uploading a X-Ray image in the app, please try to select one as close as possible to the one given in the example folder.
+This is still a prototype, expect bugs to happen. Any bugs you found, please post it in the issues section. We are not working behind this full-time but we will check and try to solve it often. To run the GUI correctly you will need to have your resolution set at 1920x1080. CUDA is not mandatory but better if you have it installed. When you are uploading a X-Ray image in the app, please try to select one as close as possible to the one given in the example folder.
